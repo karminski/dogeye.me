@@ -1,8 +1,8 @@
 (function () {
     // Default Width set and height to be based on aspect ratio
     // Change to width/height of device (detect)
-    var width = 320;
-    var height = 0;
+    var width = 1280;
+    var height = 900;
 
     //Status of stream
     var streaming = false;
